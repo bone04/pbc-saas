@@ -2,8 +2,6 @@
 
 export default function AddUserForm(){
 	return(
-		<div>
-			<p>Ini components add user form</p>
-		</div>
+		<h1>Add User Form</h1>
 	)
 }
